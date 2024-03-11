@@ -7,7 +7,7 @@ AuthGenius is a Node.js package that provides a secure and customizable authenti
 To install AuthGenius, use npm:
 
 ```bash
-npm install auth-genius
+npm i authgenius
 
 
 Usage

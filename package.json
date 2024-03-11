@@ -1,6 +1,6 @@
 {
   "name": "authgenius",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js package that provides a secure and customizable authentication system for applications.",
   "main": "index.js",
   "scripts": {
